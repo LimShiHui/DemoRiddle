@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Riddle</string>
+    <string name="tv_q1">Question 1\nThis word has the same pronunciation even after removing 4 letters from it</string>
+    <string name="btn_reveal">Reveal</string>
+    <string name="btn_reveal2">Reveal</string>
+    <string name="tv_q2">Question 2\n How do you make 1 disappear?</string>
+</resources>
